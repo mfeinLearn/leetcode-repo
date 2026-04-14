@@ -1,5 +1,8 @@
 # leetcode-repo
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+Goal is to do at least 1 easy leetcode problem per day! 
+Wish me luck!
+Also, join me if you like! 
+Good Luck!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
