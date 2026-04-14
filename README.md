@@ -1,8 +1,8 @@
 # leetcode-repo
-Goal is to do at least 1 easy leetcode problem per day! 
-Wish me luck!
-Also, join me if you like! 
-Good Luck!
+- **Goal is to do at least 1 easy leetcode problem per day!**
+- Wish me luck!
+- Also, join me if you like! 
+- Good Luck!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
