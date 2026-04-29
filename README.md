@@ -14,6 +14,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/mfeinLearn/leetcode-repo/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/mfeinLearn/leetcode-repo/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -23,4 +24,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/mfeinLearn/leetcode-repo/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/mfeinLearn/leetcode-repo/tree/main/0270-closest-binary-search-tree-value/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/mfeinLearn/leetcode-repo/tree/main/0270-closest-binary-search-tree-value/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/mfeinLearn/leetcode-repo/tree/main/0270-closest-binary-search-tree-value/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/mfeinLearn/leetcode-repo/tree/main/0270-closest-binary-search-tree-value/) | Easy |
 <!---LeetCode Topics End-->
