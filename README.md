@@ -40,4 +40,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0270-closest-binary-search-tree-value](https://github.com/mfeinLearn/leetcode-repo/tree/main/0270-closest-binary-search-tree-value/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2652-sum-multiples](https://github.com/mfeinLearn/leetcode-repo/tree/main/2652-sum-multiples/) | Easy |
 <!---LeetCode Topics End-->
