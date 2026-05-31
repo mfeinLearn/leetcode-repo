@@ -43,5 +43,18 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/0509-fibonacci-number/) | Easy |
 | [2652-sum-multiples](https://github.com/mfeinLearn/leetcode-repo/tree/main/2652-sum-multiples/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
