@@ -66,4 +66,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/mfeinLearn/leetcode-repo/tree/main/0258-add-digits/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mfeinLearn/leetcode-repo/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/mfeinLearn/leetcode-repo/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 <!---LeetCode Topics End-->
