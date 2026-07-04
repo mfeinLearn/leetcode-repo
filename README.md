@@ -46,6 +46,7 @@
 | [0258-add-digits](https://github.com/mfeinLearn/leetcode-repo/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/0509-fibonacci-number/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/mfeinLearn/leetcode-repo/tree/main/2652-sum-multiples/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -80,5 +81,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mfeinLearn/leetcode-repo/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mfeinLearn/leetcode-repo/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 <!---LeetCode Topics End-->
