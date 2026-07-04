@@ -45,6 +45,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/mfeinLearn/leetcode-repo/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/0509-fibonacci-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mfeinLearn/leetcode-repo/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/mfeinLearn/leetcode-repo/tree/main/2652-sum-multiples/) | Easy |
