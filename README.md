@@ -79,6 +79,7 @@
 | [0709-to-lower-case](https://github.com/mfeinLearn/leetcode-repo/tree/main/0709-to-lower-case/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mfeinLearn/leetcode-repo/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mfeinLearn/leetcode-repo/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/mfeinLearn/leetcode-repo/tree/main/3019-number-of-changing-keys/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
