@@ -43,6 +43,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/mfeinLearn/leetcode-repo/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/0509-fibonacci-number/) | Easy |
 | [2652-sum-multiples](https://github.com/mfeinLearn/leetcode-repo/tree/main/2652-sum-multiples/) | Easy |
 ## Dynamic Programming
@@ -57,4 +58,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/0509-fibonacci-number/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/mfeinLearn/leetcode-repo/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/mfeinLearn/leetcode-repo/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
