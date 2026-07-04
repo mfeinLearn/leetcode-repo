@@ -85,6 +85,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mfeinLearn/leetcode-repo/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mfeinLearn/leetcode-repo/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -93,5 +94,10 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3024-type-of-triangle](https://github.com/mfeinLearn/leetcode-repo/tree/main/3024-type-of-triangle/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
