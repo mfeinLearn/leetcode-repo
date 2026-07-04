@@ -6,7 +6,7 @@ class Solution(object):
         """
         nums.sort()
         side1, side2, side3 = nums
-        if nums[0] + nums[1] <= nums[2]:
+        if side1 + side2 <= side3:
             return "none"
         if side1 == side2 and side2 == side3:
             return "equilateral"
