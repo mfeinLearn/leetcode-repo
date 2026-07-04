@@ -80,4 +80,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mfeinLearn/leetcode-repo/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/mfeinLearn/leetcode-repo/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 <!---LeetCode Topics End-->
