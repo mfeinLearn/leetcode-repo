@@ -74,4 +74,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mfeinLearn/leetcode-repo/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/mfeinLearn/leetcode-repo/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/mfeinLearn/leetcode-repo/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 <!---LeetCode Topics End-->
