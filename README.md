@@ -49,6 +49,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/mfeinLearn/leetcode-repo/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mfeinLearn/leetcode-repo/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3024-type-of-triangle](https://github.com/mfeinLearn/leetcode-repo/tree/main/3024-type-of-triangle/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,9 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mfeinLearn/leetcode-repo/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/mfeinLearn/leetcode-repo/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [3024-type-of-triangle](https://github.com/mfeinLearn/leetcode-repo/tree/main/3024-type-of-triangle/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/mfeinLearn/leetcode-repo/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
