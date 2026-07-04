@@ -11,9 +11,6 @@ class Solution(object):
             freq[char] += 1
         if len(freq) != 26:
             return False
-        # for char in sentence:
-        #     if char not in freq:
-        #         return False
         return True 
         
 
