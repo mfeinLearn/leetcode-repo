@@ -5,9 +5,9 @@ class Solution(object):
         :rtype: str
         """
         nums.sort()
+        side1, side2, side3 = nums
         if nums[0] + nums[1] <= nums[2]:
             return "none"
-        side1, side2, side3 = nums
         if side1 == side2 and side2 == side3:
             return "equilateral"
         if side1 == side2 or side2 == side3 or side1 == side3:
