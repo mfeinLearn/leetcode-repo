@@ -48,6 +48,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mfeinLearn/leetcode-repo/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/mfeinLearn/leetcode-repo/tree/main/2652-sum-multiples/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/mfeinLearn/leetcode-repo/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
