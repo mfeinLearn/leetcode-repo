@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/mfeinLearn/leetcode-repo/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/mfeinLearn/leetcode-repo/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mfeinLearn/leetcode-repo/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/mfeinLearn/leetcode-repo/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/mfeinLearn/leetcode-repo/tree/main/2942-find-words-containing-character/) | Easy |
 | [3024-type-of-triangle](https://github.com/mfeinLearn/leetcode-repo/tree/main/3024-type-of-triangle/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mfeinLearn/leetcode-repo/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +103,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/mfeinLearn/leetcode-repo/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mfeinLearn/leetcode-repo/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
