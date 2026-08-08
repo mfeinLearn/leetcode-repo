@@ -3,6 +3,7 @@
 - Wish me luck!
 - Also, join me if you like! 
 - Good Luck!
+- P.S. I also do tons of Mediums and occasionally Hards, but I choose not to show those here!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
